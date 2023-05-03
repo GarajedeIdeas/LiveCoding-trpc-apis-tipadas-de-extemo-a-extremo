@@ -6,4 +6,4 @@ Evento [Garaje Live Coding](https://www.youtube.com/watch?v=P1fhOrWCBo8) con [Ca
 
 Todo esto de la mano de Carlos Azaustre, Frontend Developer, Profesor Asociado UEM,  Google Developer Expert en Tecnologías Web & Microsoft MVP 2022 en Tecnologías de desarrollo y Creador de contenido sobre Programación Web y JavaScript.
 
-[Notion con todos los materiales del taller](https://carlosazaustre.notion.site/GarajeDev-LiveCoding-tRPC-3dc41c00538c4810b15ae6342e80a35b) 
+[Notion con todos los materiales del taller.](https://carlosazaustre.notion.site/GarajeDev-LiveCoding-tRPC-3dc41c00538c4810b15ae6342e80a35b) 
